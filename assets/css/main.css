@@ -979,9 +979,13 @@
 		input[type="reset"]:hover,
 		input[type="button"]:hover,
 		button:hover,
-		.button:hover,
-		.btn:hover {
+		.button:hover {
 			background-color: #1fcaa7;
+		}
+
+		.btn:hover {
+			background-color: #c162d9;
+			color: #fff !important;
 		}
 
 		input[type="submit"]:active,
