@@ -3292,6 +3292,7 @@ input, select, textarea {
 }
 
 .sponsor_image{
+	display: inline-block;
 	max-width: 18%;
 	height: auto;
 	margin: 10px;
