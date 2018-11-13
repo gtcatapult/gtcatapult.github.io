@@ -3284,3 +3284,20 @@ input, select, textarea {
 				}
 
 	}
+
+/*custom*/
+#header_image {
+	max-width: 100%;
+	height: auto;
+}
+
+.sponsor_image{
+	max-width: 18%;
+	height: auto;
+	margin: 10px;
+}
+
+#sponsor_container {
+	/*margin-left: 10%;
+	margin-right: 10%;*/
+}
